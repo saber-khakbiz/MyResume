@@ -4,4 +4,4 @@
 
 
 
-![img](https://github.com/saber-khakbiz/MyResume/blob/main/img/readme-pic.jpg)
+![img](https://github.com/saber-khakbiz/MyResume/blob/master/img/readme-pic.jpg)
